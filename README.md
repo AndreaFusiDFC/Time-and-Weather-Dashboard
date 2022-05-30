@@ -1,14 +1,19 @@
 # Time-and-Weather-Dashboard
 Raspberry Pi project for time and weather dashboard on 7.5 inches e-ink display
 
-This program is based on a modified version of the code from AbnormalDistributions shown below in credits. \n
-Raspberry Pi Zero 2W is the controller used for this code. \n
-3-color 7.5 inches e-ink display is used for this code. \n
+This program is based on a modified version of the code from AbnormalDistributions shown below in credits.
+
+Raspberry Pi Zero 2W is the controller used for this code.
+
+3-color 7.5 inches e-ink display is used for this code.
 
 # v1.0
-Template draft \n
-Update texts to italian \n
-Added times for current location, Taipei time and US West time \n
+Template draft
+
+Update texts to italian
+
+Added times for current location, Taipei time and US West time
+
 Added temperature from same day and time, 40 years ago. reference: openweathermap
 
 # credits: AbnormalDistributions
